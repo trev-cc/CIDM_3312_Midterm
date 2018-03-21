@@ -1,0 +1,20 @@
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/bin/Debug/netcoreapp2.0/Converter.deps.json
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.json
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.dev.json
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/bin/Debug/netcoreapp2.0/Converter.dll
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/bin/Debug/netcoreapp2.0/Converter.pdb
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/obj/Debug/netcoreapp2.0/Converter.csproj.CoreCompileInputs.cache
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/obj/Debug/netcoreapp2.0/Converter.AssemblyInfoInputs.cache
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/obj/Debug/netcoreapp2.0/Converter.AssemblyInfo.cs
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/obj/Debug/netcoreapp2.0/Converter.dll
+C:/Users/Ian Bilek/Desktop/3312 ABA/Converter/obj/Debug/netcoreapp2.0/Converter.pdb
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/bin/Debug/netcoreapp2.0/Converter.deps.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/bin/Debug/netcoreapp2.0/Converter.runtimeconfig.dev.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/bin/Debug/netcoreapp2.0/Converter.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/bin/Debug/netcoreapp2.0/Converter.pdb
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/obj/Debug/netcoreapp2.0/Converter.csproj.CoreCompileInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/obj/Debug/netcoreapp2.0/Converter.AssemblyInfoInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/obj/Debug/netcoreapp2.0/Converter.AssemblyInfo.cs
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/obj/Debug/netcoreapp2.0/Converter.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/Midterm/obj/Debug/netcoreapp2.0/Converter.pdb
